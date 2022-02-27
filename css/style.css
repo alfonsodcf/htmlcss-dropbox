@@ -18,8 +18,13 @@ header{
     min-width: 1200px;
 }
 
-.container{
+.container-nav{
     width: 98%;
+    margin: 0 auto;    
+}
+
+.container{
+    width: 80%;
     margin: 0 auto;    
 }
 
@@ -39,25 +44,26 @@ nav .logo{
 }
 
 .button-nav{
-    margin-top: 30px;
+    margin-top: 20px;
     display: inline-block;
     
 }
 
-.button-nav a{
-    padding: 10px 20px;
-    color: white;
-    background-color: rgb(8, 107, 255);
-}
+
 
 a{
     text-decoration: none;
     color: black;
 }
 
- .button a{
-    padding: 15px 20px;
-    border-radius:25px;
+.button{
+    padding: 10px 0;
+}
+.button a{
+    padding: 10px 20px;
+    color: white;
+    background-color: rgb(8, 107, 255);
+    
 }
 
 .button-jumb{
@@ -78,3 +84,44 @@ ul{
 
 }
 
+.sfondoblu{
+    background-color: rgb(129, 176, 238);
+}
+
+h1{
+    font-size: 98px;
+    margin-bottom: 50px;
+}
+
+.c1{
+    width: 30%;
+    padding-right: 30px;
+}
+
+.c2{
+    width: 70%;
+}
+
+.c2 img{
+    width: 100%;
+    margin-bottom: -100px;
+}
+
+.paddingtop{
+    padding-top: 100px;
+}
+
+.margintop{
+    margin-top: 20px;
+}
+
+p{
+    padding: 10px 0;
+}
+
+.arrow{
+    margin-top: 30px;
+}
+.arrow a{
+    font-size: 50px;
+}
