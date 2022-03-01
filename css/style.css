@@ -291,3 +291,25 @@ ul{
     padding: 10px 15px;
     border: 1px solid black ;
 }
+
+.bloc{
+    width: calc((100% / 3) - 80px);
+    margin-bottom: 100px;
+}
+
+.bloc-c{
+    margin: 0 40px;
+}
+
+.bloc img {
+    width: 100%;
+}
+
+.bloc h4 {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.c-bloc h2{
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
