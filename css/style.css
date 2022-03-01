@@ -313,3 +313,32 @@ ul{
     margin-top: 80px;
     margin-bottom: 30px;
 }
+
+.t4 h2{
+    margin-bottom: 30px;
+}
+.t4 a{
+    color: blue;
+    text-decoration: underline;
+    padding-bottom: 30px;
+}
+
+.bloc2{
+    width: 30%;
+    height: 570px;
+    background-color: brown;
+}
+.c-bloc2{
+    width: 40%;
+    height: 570px;
+    background-color: blue;
+}
+
+.bloc-di-bloc2{
+    width: 50%;
+    height: 50%;
+}
+
+.blocgreen{
+    background-color: green;
+}
