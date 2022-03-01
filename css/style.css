@@ -314,13 +314,15 @@ ul{
     margin-bottom: 30px;
 }
 
+.t4 {
+    margin-bottom: 30px;
+}
 .t4 h2{
     margin-bottom: 30px;
 }
 .t4 a{
     color: blue;
     text-decoration: underline;
-    padding-bottom: 30px;
 }
 
 .bloc2{
@@ -341,4 +343,27 @@ ul{
 
 .blocgreen{
     background-color: green;
+}
+
+.blocporpora{
+    background-color: brown;
+}
+
+.blocazuro{
+    background-color: aqua;
+}
+
+.blocredac{
+    background-color: red;
+}
+
+.container-svg{
+    width: 80%;
+    height: 80%;   
+    margin: auto;
+}
+.container-svg svg{
+    width: 100%;
+    color:white;
+
 }
