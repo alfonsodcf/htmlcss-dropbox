@@ -41,7 +41,12 @@ header{
     float: right;
 }
 
-
+nav{
+    background-color: white;
+    width: 100%;
+    position: fixed;
+    z-index: 1000;
+}
 nav .logo{
     float: left;
     padding-top: 25px;
