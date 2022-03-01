@@ -268,3 +268,26 @@ ul{
 .riga{
     border: 1px solid lightgray;
 }
+
+.item{
+    width: 50%;
+}
+
+.item img{
+    width: 100%;
+
+}
+
+.items{
+    padding: 30px;
+}
+
+.items p{
+    margin-top: 20px;
+    margin-bottom: 30px;
+} 
+
+.items a{
+    padding: 10px 15px;
+    border: 1px solid black ;
+}
